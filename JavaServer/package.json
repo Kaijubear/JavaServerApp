@@ -1,0 +1,11 @@
+{
+  "name": "javanodepingpong",
+  "version": "1.0.0",
+  "description": "ping pong mesasging program for communication between java and node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kaylem",
+  "license": "ISC"
+}
